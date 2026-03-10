@@ -52,12 +52,5 @@ I still enjoy technical challenges, but what motivates me most is working with *
 
 ---
 
-💻 Backend: PHP, Symfony, API Platform, CQRS, Hexagonal Architecture  
-🎯 Frontend: React, TypeScript, Next.js, Pixi.js  
-⚙️ DevOps: Docker, Traefik, Caddy, Redis, PostgreSQL  
-🌱 Passionate about social impact, cooperatives, and tech that helps people
-
----
-
 📍 Based in Berlin | 🇪🇺 Working remotely across Europe  
 
