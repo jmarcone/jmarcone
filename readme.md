@@ -40,12 +40,7 @@ I'm always happy to connect, collaborate, or just talk ideas. If you're building
 
 ---
 
-📍 Based in Barcelona | 🇪🇺 Working remotely across Europe  
-🛠️ Currently contributing to:
-- https://catan-trainer.vercel.app/
-- https://github.com/proto-squad/betpoint-project
-- https://github.com/jmarcone/leyendapp-api
-- https://github.com/jmarcone/gestorservicios
+📍 Based in Berlin | 🇪🇺 Working remotely across Europe  
 
 📫 Reach me at: [marconi.julian@gmail.com]
 
