@@ -28,18 +28,6 @@ Most of my professional work lives in private client repositories (15+ years of 
 
 ---
 
-### 🌱 What I'm Interested In
-
-I'm especially drawn to projects that have a **social or ecological impact** — things like:
-
-- Community tech and local networks
-- Open source tools for cooperatives
-- Platforms for sustainability, mental health, or grassroots orgs
-- Anything that helps real people instead of feeding algorithms
-
-I still enjoy technical challenges, but what motivates me most is working with **kind, values-driven people** on **projects that matter**.
-
----
 
 ### 📬 Get in Touch
 
